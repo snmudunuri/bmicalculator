@@ -1,10 +1,11 @@
-# Overview - Caluclate the BMI-Body Mass Index of an individual
+# Goal: Create a tic-tac-toe game
 # Workflow
-* Ask user to select a value from the dropdown to select the metrics/units
-* Ask user to enter height and weight
-* Get the input and caluclate the BMI
-* Display the value in the metrics that user selected
-* Additionally display the condition of their BMI
-* Show a warning message if their BMI is above the normal BMI.
-
-
+* Ask user to select a if he wants to play with computer or play with a local player or an online player
+* Ask user to select the NxN matrix he wants to play
+* Display a feature to invite online player
+* Display the NxN box to start the play
+* Display a start button to start the game and a cancel button to cancel the game
+* Display a restart button after start button is selected to restart the game
+* Display an alert if user wins or loses or match is a draw
+* Clicking on ok on alert should restart the game
+* Should save the history of each game played based on the time and date
